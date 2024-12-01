@@ -1,2 +1,3 @@
-# mini-project-5
-Random number generator
+# hcj-js-random-number
+
+I am learning creating Random Number Generator from different Videos, Books, and Websites.
